@@ -11,11 +11,10 @@
 \RequirePackage{ifthen}
 \RequirePackage{calc}
 \RequirePackage{graphicx}
-\setmainfont{YujiMai-Regular.ttf}
-\setCJKmainfont[AutoFakeBold={3.17}]{YujiMai-Regular.ttf}
-\setCJKfamilyfont{vertfont}[RawFeature={vertical}]{YujiMai-Regular.ttf}
-\setCJKfallbackfamilyfont{vertfont}[RawFeature={vertical}]{芫荽}
-\newfontfamily\weekdayfont{AbrilFatface-Regular.ttf}
+\setmainfont{./font/YujiMai-Regular.ttf}
+\setCJKmainfont[AutoFakeBold={3.17}]{./font/YujiMai-Regular.ttf}
+\setCJKfamilyfont{vertfont}[RawFeature={vertical}]{./font/YujiMai-Regular.ttf}
+\setCJKfallbackfamilyfont{vertfont}[RawFeature={vertical}]{./font/Iansui-Regular.ttf}
 \pagenumbering{gobble}
 \newlength{\cellwidth}
 \setlength{\cellwidth}{25mm}
