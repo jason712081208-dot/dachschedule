@@ -1,0 +1,8 @@
+\documentclass[tmu]{dachschedule}
+\begin{document}
+\begin{schedule}
+  \course{1}{6}{9}{口胚及口胚實}{2302}
+  \course{2}{3}{4}{生化}{2102}
+  \course{3}{6}{9}{牙形實}{口醫3F}
+\end{schedule}
+\end{document}
